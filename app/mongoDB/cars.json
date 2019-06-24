@@ -1,6 +1,6 @@
 [
     {
-        "_id": "5d0cf23f7dea47643eda9f87",
+        "_id": ObjectId("5d0cf23f7dea47643eda9f87"),
         "mark": "Peugeot",
         "model": "3008",
         "age": 2019,
@@ -10,7 +10,7 @@
         "__v": 0
     },
     {
-        "_id": "5d0cfaa0c3e80c732ea0a2bb",
+        "_id": ObjectId("5d0cfaa0c3e80c732ea0a2bb"),
         "mark": "Hyundai",
         "model": "Tucson",
         "age": 2019,
@@ -20,59 +20,83 @@
         "__v": 0
     },
     {
-        "_id": "5d0cfda7b42b72732e13587f",
+        "_id": ObjectId("5d0cfda7b42b72732e13587f"),
         "mark": "Chevrolet",
         "model": "Spark GT",
         "age": 2016,
-        "price": 500000
+        "price": 500000,
+        "createdAt": "2019-06-21T15:05:35.030Z",
+        "updatedAt": "2019-06-21T15:05:35.030Z",
+        "__v": 0
     },
     {
-        "_id": "5d0cfdb6b42b72732e135880",
+        "_id": ObjectId("5d0cfdb6b42b72732e135880"),
         "mark": "Nissan",
         "model": "Versa",
         "age": 2016,
-        "price": 650000
+        "price": 650000,
+        "createdAt": "2019-06-21T15:05:35.030Z",
+        "updatedAt": "2019-06-21T15:05:35.030Z",
+        "__v": 0
     },
     {
-        "_id": "5d0cfde2b42b72732e135884",
+        "_id": ObjectId("5d0cfde2b42b72732e135884"),
         "mark": "Nissan",
         "model": "Juke",
         "age": 2016,
-        "price": 1000000
+        "price": 1000000,
+        "createdAt": "2019-06-21T15:05:35.030Z",
+        "updatedAt": "2019-06-21T15:05:35.030Z",
+        "__v": 0
     },
     {
-        "_id": "5d0cfe01b42b72732e135885",
+        "_id": ObjectId("5d0cfe01b42b72732e135885"),
         "mark": "Ford",
         "model": "Ecosport",
         "age": 2018,
-        "price": 1200000
+        "price": 1200000,
+        "createdAt": "2019-06-21T15:05:35.030Z",
+        "updatedAt": "2019-06-21T15:05:35.030Z",
+        "__v": 0
     },
     {
-        "_id": "5d0cfe21b42b72732e135886",
+        "_id": ObjectId("5d0cfe21b42b72732e135886"),
         "mark": "Toyoya",
         "model": "Rav 4",
         "age": 2017,
-        "price": 1200000
+        "price": 1200000,
+        "createdAt": "2019-06-21T15:05:35.030Z",
+        "updatedAt": "2019-06-21T15:05:35.030Z",
+        "__v": 0
     },
     {
-        "_id": "5d0cfe47b42b72732e13588a",
+        "_id": ObjectId("5d0cfe47b42b72732e13588a"),
         "mark": "Suzuki",
         "model": "Baleno",
         "age": 2017,
-        "price": 900000
+        "price": 900000,
+        "createdAt": "2019-06-21T15:05:35.030Z",
+        "updatedAt": "2019-06-21T15:05:35.030Z",
+        "__v": 0
     },
     {
-        "_id": "5d0cfe59b42b72732e13588b",
+        "_id": ObjectId("5d0cfe59b42b72732e13588b"),
         "mark": "Chevrolet",
         "model": "Prisma",
         "age": 2019,
-        "price": 900000
+        "price": 900000,
+        "createdAt": "2019-06-21T15:05:35.030Z",
+        "updatedAt": "2019-06-21T15:05:35.030Z",
+        "__v": 0
     },
     {
-        "_id": "5d0cfe82b42b72732e13588c",
+        "_id": ObjectId("5d0cfe82b42b72732e13588c"),
         "mark": "Kia",
         "model": "Rio 4",
         "age": 2018,
-        "price": 7000000
+        "price": 7000000,
+        "createdAt": "2019-06-21T15:05:35.030Z",
+        "updatedAt": "2019-06-21T15:05:35.030Z",
+        "__v": 0
     }
 ]
